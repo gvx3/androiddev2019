@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Vũ Hoàng Minh
+* ID: USTHBI7-112
+* Group ID: 3
+* Project Name: Online Music Player
